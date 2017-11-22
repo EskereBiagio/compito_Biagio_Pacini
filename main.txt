@@ -5,6 +5,7 @@ using namespace std;
 void main()
 {
 int count=0;
+<<<<<<< HEAD
 for(int i=0;i<10;i++)
 {
 count++;
@@ -12,3 +13,14 @@ cout>>count;
 }
 }
 //ticchete
+=======
+
+for(int i=0;i<10;i++)
+{
+
+count++;
+cout<<count;
+}
+}
+modifica
+>>>>>>> master
